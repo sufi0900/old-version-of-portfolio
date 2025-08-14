@@ -9,7 +9,7 @@
     "@fullpage/react-fullpage": "^0.1.28",
     "@mui/icons-material": "^5.10.9",
     "@mui/x-data-grid": "^5.17.22",
-    "@mui/x-data-grid-generator": "^5.17.20",
+    "@mui/x-data-grid-generator": "^5.17.26",
     "@syncfusion/ej2-react-navigations": "^20.4.49",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
